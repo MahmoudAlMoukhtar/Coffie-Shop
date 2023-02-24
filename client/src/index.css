@@ -1,0 +1,14 @@
+
+*{
+    scroll-behavior: smooth
+}
+
+
+#chose_section{
+    background-image: url('/public/photo-1573884054824-95ec03df17da.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    
+}
+
